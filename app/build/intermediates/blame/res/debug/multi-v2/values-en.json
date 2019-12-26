@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\DATA KULIAH\\SEMESTER 5\\Mobile Programming\\Profil_1718094\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "D:\\DATA KULIAH\\SEMESTER 5\\Mobile Programming\\Profil_1718094\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2,9,7,5,6,8,4,3,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,360,278,195,241,321,147,102,402",
+                        "endColumns": "43,40,41,44,35,37,46,43,39",
+                        "endOffsets": "96,396,315,235,272,354,189,141,437"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,140,182,227,263,301,348,392",
+                        "endColumns": "43,40,41,44,35,37,46,43,39",
+                        "endOffsets": "94,135,177,222,258,296,343,387,427"
+                    }
+                }
+            ]
+        }
+    ]
+}

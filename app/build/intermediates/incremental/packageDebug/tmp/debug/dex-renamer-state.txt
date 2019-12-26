@@ -1,0 +1,7 @@
+#Thu Dec 26 14:39:17 ICT 2019
+base.0=D\:\\DATA KULIAH\\SEMESTER 5\\Mobile Programming\\Profil_1718094\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\DATA KULIAH\\SEMESTER 5\\Mobile Programming\\Profil_1718094\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\DATA KULIAH\\SEMESTER 5\\Mobile Programming\\Profil_1718094\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in-rID\\values-in-rID.xml",
+            "map": [
+                {
+                    "source": "D:\\DATA KULIAH\\SEMESTER 5\\Mobile Programming\\Profil_1718094\\app\\src\\main\\res\\values-in-rID\\strings.xml",
+                    "from": {
+                        "startLines": "2,9,7,5,6,8,4,3,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,365,282,196,245,327,149,102,406",
+                        "endColumns": "43,39,43,47,35,36,45,45,39",
+                        "endOffsets": "96,400,321,239,276,359,190,143,441"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,139,183,231,267,304,350,396",
+                        "endColumns": "43,39,43,47,35,36,45,45,39",
+                        "endOffsets": "94,134,178,226,262,299,345,391,431"
+                    }
+                }
+            ]
+        }
+    ]
+}
